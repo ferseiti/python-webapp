@@ -8,4 +8,4 @@ To get it up:
 ```bash
 python manage.py runserver <port>
 ```
-Where <port> is the port where it will be available.
+Where \<port\> is the port where it will be available.
